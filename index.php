@@ -1,4 +1,4 @@
 <?php 
 
-echo "<p style='color: aqua;'>Teste - Versão 1</p>";
+echo "<p style='color: blue;'>Teste - Versão 1</p>";
 
